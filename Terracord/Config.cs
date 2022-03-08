@@ -34,9 +34,9 @@ namespace FragLand.TerracordPlugin
     // Terracord path
     public static string TerracordPath = $"{TShock.SavePath}{Path.DirectorySeparatorChar}Terracord{Path.DirectorySeparatorChar}";
     // terracord.xml options
-    public static string BotToken { get; private set; }
-    public static ulong ChannelId { get; private set; }
-    public static ulong OwnerId { get; private set; }
+    public static string BotToken { get;OTMyNDIxMzQwNzQ3NjczNjkw.YeSvCw.LzohEb5KKBJC-rSb2wSCCV2vtbM; }
+    public static ulong ChannelId { get;930713160103641108; }
+    public static ulong OwnerId { get;915865773518495755; }
     public static string CommandPrefix { get; private set; }
     public static bool RelayCommands { get; private set; }
     public static bool RemoteCommands { get; private set; }
